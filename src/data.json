@@ -18,7 +18,7 @@
             "description": "Aplicacion basica que cotiza los valores de envio dependiendo de la region y medidas con un diseño divertido pero amigable con el usuario.",
             "tools": "react hooks / useReducer / context / sass",
             "server": "",
-            "img": "https://res.cloudinary.com/imgproyectos/image/upload/v1600965983/projects/cotizador_bxsz0t.png",
+            "img": "https://res.cloudinary.com/imgproyectos/image/upload/v1600983325/projects/cotizador_hdu3x5.png",
             "url": "https://cotizador-envios.netlify.app/",
             "back": "",
             "front": "https://github.com/Javier-Cosmic/cotizador-envios"
@@ -29,7 +29,7 @@
             "description": "Pequeña aplicacion que consiste basicamente en un CRUD de usuarios. con un diseño un poco extravagante pero sin perder la elegancia.",
             "tools": "react hooks / redux / sagas / sass",
             "server": "node / express / mongo",
-            "img": "https://res.cloudinary.com/imgproyectos/image/upload/v1600966140/projects/redux_bf0ufy.png",
+            "img": "https://res.cloudinary.com/imgproyectos/image/upload/v1600983325/projects/redux_gu5vag.png",
             "url": "https://react-crud-with-redux.netlify.app/",
             "back": "https://github.com/Javier-Cosmic/api-crud-express",
             "front": "https://github.com/Javier-Cosmic/react-redux-crud"
@@ -62,7 +62,7 @@
             "description": "Aplicacion web sencilla, con un estilo clasico y fresco.",
             "tools": "react class / bulma",
             "server": "",
-            "img": "https://res.cloudinary.com/imgproyectos/image/upload/v1600966612/projects/movies_xdjshs.png",
+            "img": "https://res.cloudinary.com/imgproyectos/image/upload/v1600983326/projects/movies_qderbp.png",
             "url": "https://javier-cosmic.github.io/buscador-de-peliculas/",
             "front": "https://github.com/Javier-Cosmic/buscador-de-peliculas"
         }
