@@ -1,0 +1,70 @@
+{
+    "project": [
+        {
+            "id": 1,
+            "name": "Ecommerce admin panel",
+            "description": "Admin panel no terminado en su totalidad pero con un login funcional, con un diseño simple y minimalista. Permite crear usuarios y productos - con rutas publicas y privadas.",
+            "tools": "react hooks / useReducer / context / sass",
+            "server": "node / express / mongo",
+            "img": "https://res.cloudinary.com/imgproyectos/image/upload/v1600965687/projects/ecommerce_efzy6y.png",
+            "url": "https://ecommerce-app-react.netlify.app/login",
+            "back": "https://github.com/Javier-Cosmic/api-ecommerce-user",
+            "front": "https://github.com/Javier-Cosmic/front-ecommerce-user",
+            "user": "email: admin@gmail.com  pass: admin"
+        },
+        {
+            "id": 2,
+            "name": "Cotizador de envios",
+            "description": "Aplicacion basica que cotiza los valores de envio dependiendo de la region y medidas con un diseño divertido pero amigable con el usuario.",
+            "tools": "react hooks / useReducer / context / sass",
+            "server": "",
+            "img": "https://res.cloudinary.com/imgproyectos/image/upload/v1600965983/projects/cotizador_bxsz0t.png",
+            "url": "https://cotizador-envios.netlify.app/",
+            "back": "",
+            "front": "https://github.com/Javier-Cosmic/cotizador-envios"
+        },
+        {
+            "id": 3,
+            "name": "React crud with redux",
+            "description": "Pequeña aplicacion que consiste basicamente en un CRUD de usuarios. con un diseño un poco extravagante pero sin perder la elegancia.",
+            "tools": "react hooks / redux / sagas / sass",
+            "server": "node / express / mongo",
+            "img": "https://res.cloudinary.com/imgproyectos/image/upload/v1600966140/projects/redux_bf0ufy.png",
+            "url": "https://react-crud-with-redux.netlify.app/",
+            "back": "https://github.com/Javier-Cosmic/api-crud-express",
+            "front": "https://github.com/Javier-Cosmic/react-redux-crud"
+        },
+        {
+            "id": 4,
+            "name": "Sismos chile",
+            "description": "Aplicacion web que muestra todos los sismos ocurridos a nivel nacional. Diseño sobrio con dark mode.",
+            "tools": "react hooks - material UI - google maps",
+            "server": "",
+            "img": "https://res.cloudinary.com/imgproyectos/image/upload/v1600966359/projects/sismos_nk98iv.png",
+            "url": "https://javier-cosmic.github.io/sismos-chile/",
+            "front": "https://github.com/Javier-Cosmic/sismos-chile"
+
+        },
+        {
+            "id": 5,
+            "name": "Proyecto MERN",
+            "description": "Aplicacion web con inicio de sesion, enfocado a la gestion de proyectos y tareas, con un diseño completamente personalizable por el usuario.",
+            "tools": "react hooks - useReducer - context - style-components",
+            "server": "node / express / mongo",
+            "img": "https://res.cloudinary.com/imgproyectos/image/upload/v1600966480/projects/mern_uoubtr.png",
+            "url": "https://proyecto-mern.netlify.app/",
+            "back": "https://github.com/Javier-Cosmic/api-mern-task",
+            "front": "https://github.com/Javier-Cosmic/front-mern-task"
+        },
+        {
+            "id": 6,
+            "name": "Cosmic Movie",
+            "description": "Aplicacion web sencilla, con un estilo clasico y fresco.",
+            "tools": "react class / bulma",
+            "server": "",
+            "img": "https://res.cloudinary.com/imgproyectos/image/upload/v1600966612/projects/movies_xdjshs.png",
+            "url": "https://javier-cosmic.github.io/buscador-de-peliculas/",
+            "front": "https://github.com/Javier-Cosmic/buscador-de-peliculas"
+        }
+    ]
+}
